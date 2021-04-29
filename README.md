@@ -22,3 +22,9 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+
+for example:
+
+```
+python ohba_meg_qc.py my_list_of_meg_files.txt /full/path/to/my/output_directory
+```
